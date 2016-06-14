@@ -1,0 +1,12 @@
+libs
+obj
+gen
+bin
+doc
+default.properties
+local.properties
+project.properties
+tests/*$py.class
+tests/build.xml
+res/.DS_Store
+bc-android.keystore
